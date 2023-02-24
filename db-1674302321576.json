@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Nature",
+      "body": "Nature has been in existence long before humans and ever since it has taken care of mankind and nourished it forever. In other words, it offers us a protective layer which guards us against all kinds of damages and harms. Survival of mankind without nature is impossible and humans need to understand that. If nature has the ability to protect us, it is also powerful enough to destroy the entire mankind. Every form of nature, for instance, the plants, animals, rivers, mountains, moon, and more holds equal significance for us. Absence of one element is enough to cause a catastrophe in the functioning of human life. We fulfill our healthy lifestyle by eating and drinking healthy, which nature gives us. Similarly, it provides us with water and food that enables us to do so. Rainfall and sunshine, the two most important elements to survive are derived from nature itself. Further, the air we breathe and the wood we use for various purposes are a gift of nature only. But, with technological advancements, people are not paying attention to nature. The need to conserve and balance the natural assets is rising day by day which requires immediate attention.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Health and Fitness",
+      "body": "Factors Affecting our Health and Fitness\nGood health and fitness is not something which one can achieve entirely on our own. It depends on their physical environment and the quality of food intake. We live in villages, towns, and cities.\n\nIn such places, even our physical environment affects our health. Therefore, our social responsibility of pollution-free environment directly affects our health. Our day-to-day habits also determine our fitness level. The quality of food, air, water all helps in building our fitness level.",
+      "author": "mario",
+      "id": 2
+    }
+  ]
+}
